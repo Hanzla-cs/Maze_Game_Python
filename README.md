@@ -17,8 +17,7 @@ A multi-level maze game built with Python and Pygame. The player navigates throu
 - Pygame
 
 ## Game Play
-The video was compressed to meet the requirements of github. The graphics of the game are clear and interesting
-
+A short gameplay demo is included below to show the player movement, maze navigation, collision behavior, and win/loss flow.
 
 https://github.com/user-attachments/assets/46058712-9f28-49e9-b59b-be4725f777fb
 
