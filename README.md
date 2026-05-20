@@ -15,7 +15,24 @@ A multi-level maze game built with Python and Pygame. The player navigates throu
 
 - Python
 - Pygame
+  
+## How to Run
 
+1. Clone the repository:
+```bash
+git clone https://github.com/Hanzla-cs/Maze_Game_Python.git
+cd Maze_Game_Python
+2. Install dependencies:
+    pip install -r requirements.txt
+3. Start the game:
+    python src/game.py
+
+## Controls
+
+- Arrow keys: Move the player
+- Avoid walls, enemies, and obstacles
+- Reach the flag to complete each level
+- Complete all three levels to win the game
 ## Game Play
 A short gameplay demo is included below to show the player movement, maze navigation, collision behavior, and win/loss flow.
 
